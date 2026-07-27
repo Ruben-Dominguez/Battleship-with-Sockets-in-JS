@@ -1,5 +1,8 @@
 # Battleship with Sockets in JS 🚢💥
 
+## PLAY HERE: 
+https://battleship-ham1.onrender.com/
+
 A real-time, multiplayer Battleship game built with JavaScript, Node.js, and WebSockets (Socket.io). 
 
 Play the classic naval combat game against other players online in your browser. This project demonstrates real-time bidirectional communication between a client and a server.
